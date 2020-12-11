@@ -212,7 +212,7 @@ def set_configs(input_dim, src_dom_num):
   
   configs = {
         "input_dim": input_dim,
-        "hidden_layers": [2048,1024],
+        "hidden_layers": [2000,1000],
         "num_classes": 2,
         "drop_rate": 0.5,
         "moments" : 1
